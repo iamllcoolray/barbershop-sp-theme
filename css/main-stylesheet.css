@@ -1,0 +1,82 @@
+body, section{
+  padding-top: 56px;
+  max-height: auto;
+}
+
+.heading-shadow{
+  text-shadow: 0 0 2px #000;
+}
+
+.heading-white{
+    color: #fff;
+}
+
+.img-sizing, .header-sizing, .mask-sizing{
+  height: 600px;
+}
+
+.header-img{
+  background-image: url("/img/bg-imgs/header-holder.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.s-link{
+  color: #fff;
+  font-size: 24px;
+}
+
+.s-link:hover{
+  color: #999;
+}
+
+.s-link-bio{
+  color: #dc3545;
+  font-size: 24px;
+}
+
+.s-link-bio:hover{
+  color: #b72433;
+}
+
+.maa-img{
+  background-image: url("/img/bg-imgs/shop-chair.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.color-red{
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.color-black{
+  background-color: #000;
+  color: #fff;
+}
+
+.color-dark-blue{
+  background-color: #020033;
+  color: #fff;
+}
+
+.button-change:hover{
+  color: #efeaea;
+  background-color: #b72433;
+}
+
+.text-color-gray{
+  color: #999;
+}
+
+.text-color-gray:hover{
+  color: #fff;
+}
+
+.text-color-red{
+  color: #dc3545;
+}
